@@ -1,0 +1,19 @@
+{
+  "name": "ServerPush",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "nodemon app.js"
+  },
+  "author": "AKHIL",
+  "license": "MIT",
+  "dependencies": {
+    "express": "latest",
+    "socket.io": "latest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Akhil1968/basic-chat.git"
+  }
+}
